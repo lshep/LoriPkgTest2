@@ -17,6 +17,6 @@ knitr::opts_chunk$set(collapse=TRUE)
 
 # Overview
 
-```{r}
+```{r, eval=FALSE}
 sessionInfo()
 ```
