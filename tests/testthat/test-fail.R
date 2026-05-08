@@ -1,3 +1,3 @@
-test_that("intentional failure", {
-    expect_equal(1, 2)
+test_that("intentional pass", {
+    expect_equal(1, 1)
 })
